@@ -1,3 +1,6 @@
+# no window headers
+new_window pixel 1
+
 # Set screen layout
 exec .screenlayout/external-hd-monitor.sh
 
