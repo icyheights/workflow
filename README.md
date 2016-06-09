@@ -1,2 +1,3 @@
 # workflow
-tools configuration
+
+Common configurations
