@@ -1,0 +1,16 @@
+# Completion configuration
+autoload -Uz compinit
+compinit
+zstyle ':completion:*' menu select
+
+# just type directory to cd into it
+setopt autocd 
+
+# vi style bindings
+bindkey -v
+
+# Prompts
+
+# %(x.true.false) is ternary expression
+PROMPT='%(!.%F{red}.%F{green})%n@%m%f> '
+RPROMPT='%d'
