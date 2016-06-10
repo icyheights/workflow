@@ -2,6 +2,9 @@
 
 * lightdm as display manager
 * i3 as window manager
+* arandr for monitor setup
 * zsh for interactive shell 
-* DejaVu Sans Mono for terminal font
+* wicd for network configuration
+* numlockx to turn on NumLock on startup (call `numlockx on` at some autorun script)
 * pmount for mounting removable drives as user
+* DejaVu Sans Mono for terminal font
