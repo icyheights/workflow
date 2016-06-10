@@ -1,8 +1,8 @@
+# call autorun script
+exec ~/.i3/autorun.sh
+
 # no window headers
 new_window pixel 1
-
-# Set screen layout
-exec .screenlayout/external-hd-monitor.sh
 
 # Lock screen
 bindsym $mod+l exec i3lock -c 000000
