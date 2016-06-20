@@ -5,6 +5,7 @@ Plug 'tpope/vim-surround'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-repeat'
 Plug 'pangloss/vim-javascript'
+Plug 'mxw/vim-jsx'
 Plug 'raimondi/delimitmate'
 Plug 'mattn/emmet-vim'
 
