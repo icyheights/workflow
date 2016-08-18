@@ -7,4 +7,5 @@
 * wicd for network configuration
 * numlockx to turn on NumLock on startup (call `numlockx on` at some autorun script)
 * pmount for mounting removable drives as user
+* scrot for screenshots
 * DejaVu Sans Mono for terminal font
