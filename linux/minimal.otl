@@ -1,0 +1,19 @@
+Lightweight desktop setup guideline
+	Display manager
+		lightdm
+	Window manager
+		i3
+	Monitor setup
+		arandr
+	Interactive shell
+		zsh
+	Network configuration
+		wicd
+	Removable drives as user
+		pmount
+	NumLock on startup
+		numlockx
+	Screenshots
+		scrot
+	Terminal font
+		DejaVu Sans Mono
