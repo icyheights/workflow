@@ -8,6 +8,7 @@ Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'raimondi/delimitmate'
 Plug 'mattn/emmet-vim'
+Plug 'vimoutliner/vimoutliner'
 
 call plug#end()
 
