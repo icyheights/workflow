@@ -1,6 +1,4 @@
 Lightweight desktop setup guideline
-	Display manager
-		lightdm
 	Window manager
 		i3
 	Monitor setup
@@ -15,3 +13,5 @@ Lightweight desktop setup guideline
 		scrot
 	Terminal font
 		DejaVu Sans Mono
+	Set wallpaper
+		feh (see i3/config)
