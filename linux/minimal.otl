@@ -5,8 +5,6 @@ Lightweight desktop setup guideline
 		i3
 	Monitor setup
 		arandr
-	Interactive shell
-		zsh
 	Network configuration
 		wicd
 	Removable drives as user
